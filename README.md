@@ -536,6 +536,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/refined-github/refined-github](https://github.com/refined-github/refined-github) - GitHub QoL tweaks
 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Mubelotix/SimRepo](https://github.com/Mubelotix/SimRepo) - Shows similar repositories in the sidebar
+
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/NicolaeNMV/BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay) - Close any overlay on any website
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - Vim-like interface for Firefox
