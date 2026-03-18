@@ -754,6 +754,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/glanceapp/glance](https://github.com/glanceapp/glance) - Self-hosted feed-at-a-glance dashboard
 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Todo list and time tracker with Jira, GitHub, and GitLab integrations
+
 ## Media
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mpv-player/mpv](https://github.com/mpv-player/mpv) - Extensive media player
 
