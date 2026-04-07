@@ -337,6 +337,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Everduin94/better-commits](https://github.com/Everduin94/better-commits) - Better git commits following conventional commits spec
 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Omibranch/gitty](https://github.com/Omibranch/gitty) - Single-binary Git+GitHub CLI — stage, commit, push in one command
+
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/MohamedElashri/gh-cp](https://github.com/MohamedElashri/gh-cp) - GitHub CLI extension to copy files without cloning
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - Convert images to ascii art
