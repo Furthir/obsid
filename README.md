@@ -754,6 +754,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/glanceapp/glance](https://github.com/glanceapp/glance) - Self-hosted feed-at-a-glance dashboard
 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/alfredoautomatizaloconia-cloud/tinytools](https://github.com/alfredoautomatizaloconia-cloud/tinytools) - Free single-purpose web utilities (no signup, mostly client-side): OG image generator, AI background remover (runs locally in-browser), favicon generator, color palette generator, SEO meta tag generator, AI cost calculator, AI content disclosure generator (EU AI Act compliant), AI robots.txt generator, domain name generator. Live demo: https://tinytools-smoky.vercel.app/
+
 ## Media
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/mpv-player/mpv](https://github.com/mpv-player/mpv) - Extensive media player
 
