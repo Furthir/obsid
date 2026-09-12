@@ -578,6 +578,8 @@ If you know a project that would fall into my weird criteria, feel free to sugge
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/Beep6581/RawTherapee](https://github.com/Beep6581/RawTherapee) - Cross-platform raw photo processing program
 
+[<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/reville/lighttable-digital-darkroom](https://github.com/reville/lighttable-digital-darkroom) - Digital darkroom and RAW developer with physical film stock simulation
+
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) - Handwriting notetaking software
 
 [<img src="https://icon.horse/icon/github.com" height="20px" align="center"/>/KDE/Krita](https://github.com/KDE/krita) - Digital art/painting application 
